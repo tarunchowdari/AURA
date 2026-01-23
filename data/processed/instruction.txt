@@ -1,0 +1,2 @@
+Leave this folder empty.
+The prcessed files of the dataset will be stored here.
