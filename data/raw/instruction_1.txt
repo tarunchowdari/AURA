@@ -1,0 +1,3 @@
+Store the MyFixit Dataset here
+Get the MyFixit dataset from the below repository:
+  https://github.com/rub-ksv/MyFixit-Dataset
